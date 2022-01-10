@@ -1,6 +1,5 @@
 LIST OF PROBLEMS
-C++ Basic [85 exercises with solution]
-[An editor is available at the bottom of the page to write and execute the scripts.]
+C++ Basic 
 
 1. Write a program in C++ to print a welcome text in a separate line. Go to the editor
                                                                                                                                
